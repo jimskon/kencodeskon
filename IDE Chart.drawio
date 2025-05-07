@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.11">
+  <diagram name="Page-1" id="zAGRMAhANh3-YGlHLTQp">
+    <mxGraphModel dx="1213" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="agsGs7qMxovaRJEZ8sJd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="agsGs7qMxovaRJEZ8sJd-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="agsGs7qMxovaRJEZ8sJd-3" value="When project is opened" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="agsGs7qMxovaRJEZ8sJd-2">
+          <mxGeometry x="-0.1906" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="agsGs7qMxovaRJEZ8sJd-1" value="&lt;h2&gt;Student page&lt;/h2&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;See enrolled classes&lt;/li&gt;&lt;li&gt;Open/new project or script&lt;/li&gt;&lt;li&gt;See assignments and deadlines&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="340" y="250" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="agsGs7qMxovaRJEZ8sJd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="agsGs7qMxovaRJEZ8sJd-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="765" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="agsGs7qMxovaRJEZ8sJd-4" value="Launch Docker&lt;div&gt;&amp;nbsp;container with Che&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="200" width="140" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="agsGs7qMxovaRJEZ8sJd-6" value="Che page with IDE, feedback, collaboration" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="agsGs7qMxovaRJEZ8sJd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="agsGs7qMxovaRJEZ8sJd-8" target="agsGs7qMxovaRJEZ8sJd-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="agsGs7qMxovaRJEZ8sJd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="agsGs7qMxovaRJEZ8sJd-8" target="agsGs7qMxovaRJEZ8sJd-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="agsGs7qMxovaRJEZ8sJd-8" value="&lt;h2&gt;Web Interface&lt;/h2&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Handles logins&lt;/li&gt;&lt;li&gt;Collects github info&lt;/li&gt;&lt;li&gt;Manages opening and creating projects and scripts&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="225" y="30" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="agsGs7qMxovaRJEZ8sJd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="agsGs7qMxovaRJEZ8sJd-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="agsGs7qMxovaRJEZ8sJd-11" value="&lt;h2&gt;Instructor Page&lt;/h2&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;View classes&lt;/li&gt;&lt;li&gt;Create assignments&lt;/li&gt;&lt;li&gt;View submissions&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="250" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="agsGs7qMxovaRJEZ8sJd-14" value="&lt;h3&gt;Assignments&lt;/h3&gt;&lt;div&gt;Combination of github boilerplate project, instructions, and test requirements&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="460" width="120" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,68 @@
+{
+    "modules": [
+        {
+        "code": "{\n  \"name\": \"react-monaco-file-tree\",\n  \"version\": \"0.1.0\",\n  \"private\": true,\n  \"dependencies\": {\n    \"@emotion/react\": \"^11.9.0\",\n    \"@emotion/styled\": \"^11.8.1\",\n    \"@monaco-editor/react\": \"^4.4.2\",\n    \"@testing-library/jest-dom\": \"^5.16.4\",\n    \"@testing-library/react\": \"^13.1.1\",\n    \"@testing-library/user-event\": \"^13.5.0\",\n    \"@types/jest\": \"^27.4.1\",\n    \"@types/node\": \"^16.11.27\",\n    \"@types/react\": \"^18.0.6\",\n    \"@types/react-dom\": \"^18.0.2\",\n    \"react\": \"^18.0.0\",\n    \"react-dom\": \"^18.0.0\",\n    \"react-icons\": \"^4.3.1\",\n    \"react-scripts\": \"5.0.1\",\n    \"typescript\": \"^4.6.3\",\n    \"web-vitals\": \"^2.1.4\"\n  },\n  \"scripts\": {\n    \"start\": \"react-scripts start\",\n    \"build\": \"react-scripts build\",\n    \"test\": \"react-scripts test\",\n    \"eject\": \"react-scripts eject\"\n  },\n  \"eslintConfig\": {\n    \"extends\": [\"react-app\", \"react-app/jest\"]\n  },\n  \"browserslist\": {\n    \"production\": [\"\u003E0.2%\", \"not dead\", \"not op_mini all\"],\n    \"development\": [\n      \"last 1 chrome version\",\n      \"last 1 firefox version\",\n      \"last 1 safari version\"\n    ]\n  },\n  \"keywords\": [],\n  \"description\": \"\"\n}\n",
+        "id": "mod_QzDSFoM3XAMXTCw6XMkgzy",
+        "is_binary": false,
+        "title": "package.json",
+        "sha": null,
+        "inserted_at": "2022-04-24T13:13:30",
+        "updated_at": "2024-03-08T01:33:40",
+        "upload_id": null,
+        "shortid": "By-xM-p6fr5",
+        "source_id": "src_8fBjCWsN1R71GAmBeMQCYu",
+        "directory_shortid": null
+        },
+        {
+        "code":"Welcome to so many files",
+        "id": "mod_FwSQ2sn8RojGexhPKeKb1u",
+        "is_binary": false,
+        "title": "App.tsx",
+        "sha": null,
+        "inserted_at": "2022-04-24T13:13:30",
+        "updated_at": "2022-04-24T13:14:32",
+        "upload_id": null,
+        "shortid": "S1vxGZ6TGrc",
+        "source_id": "src_8fBjCWsN1R71GAmBeMQCYu",
+        "directory_shortid": "ryLzZTpfr5"
+        }
+    ],
+    "directories": [
+        {
+        "id": "dir_atfKKrMasjdjv74jUT3wz",
+        "title": "public",
+        "inserted_at": "2022-04-24T13:13:30",
+        "updated_at": "2022-04-24T13:13:30",
+        "shortid": "H1rMWpafrq",
+        "source_id": "src_8fBjCWsN1R71GAmBeMQCYu",
+        "directory_shortid": null
+        },
+        {
+        "id": "dir_6dejdsrEvjAgLgbXJ3sfPR",
+        "title": "src",
+        "inserted_at": "2022-04-24T13:13:30",
+        "updated_at": "2022-04-24T13:13:30",
+        "shortid": "ryLzZTpfr5",
+        "source_id": "src_8fBjCWsN1R71GAmBeMQCYu",
+        "directory_shortid": null
+        },
+        {
+        "id": "dir_WrGQnxPAjzMQk2S6mczmLg",
+        "title": "components",
+        "inserted_at": "2022-04-24T13:13:30",
+        "updated_at": "2022-04-24T13:13:30",
+        "shortid": "SJDzbapfSq",
+        "source_id": "src_8fBjCWsN1R71GAmBeMQCYu",
+        "directory_shortid": "ryLzZTpfr5"
+        },
+        {
+        "id": "dir_F61Faj7aWSyxvWFZ1Migbe",
+        "title": "editor",
+        "inserted_at": "2022-04-24T13:13:30",
+        "updated_at": "2022-04-24T13:13:30",
+        "shortid": "ry_fZ6TfH9",
+        "source_id": "src_8fBjCWsN1R71GAmBeMQCYu",
+        "directory_shortid": "ryLzZTpfr5"
+        }
+    ]
+}
